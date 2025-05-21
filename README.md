@@ -1,0 +1,2 @@
+Projeto acadêmico em Java utilizando POO. Nesse projeto, é feita a simulação de um sistema de bilhete único. Suas funcionalidades são: registro do bilhete único (com CPF, nome e tipo de usuário), registro do tipo de usuário (comum, estudante ou professor),
+consulta e recarga de saldo, validação de passagem na catraca com controle de saldo, remoção e listagem de bilhetes e tarifas diferenciadas por perfil. Tudo isso utilizando janelas gráficas para melhor visualização do usuário.
